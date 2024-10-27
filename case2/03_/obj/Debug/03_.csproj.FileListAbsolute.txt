@@ -1,0 +1,7 @@
+C:\Users\tugru\source\repos\02_Mainsubject\03_\bin\Debug\03_.exe.config
+C:\Users\tugru\source\repos\02_Mainsubject\03_\bin\Debug\03_.exe
+C:\Users\tugru\source\repos\02_Mainsubject\03_\bin\Debug\03_.pdb
+C:\Users\tugru\source\repos\02_Mainsubject\03_\obj\Debug\03_.csproj.AssemblyReference.cache
+C:\Users\tugru\source\repos\02_Mainsubject\03_\obj\Debug\03_.csproj.CoreCompileInputs.cache
+C:\Users\tugru\source\repos\02_Mainsubject\03_\obj\Debug\03_.exe
+C:\Users\tugru\source\repos\02_Mainsubject\03_\obj\Debug\03_.pdb

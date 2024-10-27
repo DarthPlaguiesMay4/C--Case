@@ -1,0 +1,7 @@
+C:\Users\tugru\source\repos\02_Mainsubject\08_methot\bin\Debug\08_methot.exe.config
+C:\Users\tugru\source\repos\02_Mainsubject\08_methot\bin\Debug\08_methot.exe
+C:\Users\tugru\source\repos\02_Mainsubject\08_methot\bin\Debug\08_methot.pdb
+C:\Users\tugru\source\repos\02_Mainsubject\08_methot\obj\Debug\08_methot.csproj.AssemblyReference.cache
+C:\Users\tugru\source\repos\02_Mainsubject\08_methot\obj\Debug\08_methot.csproj.CoreCompileInputs.cache
+C:\Users\tugru\source\repos\02_Mainsubject\08_methot\obj\Debug\08_methot.exe
+C:\Users\tugru\source\repos\02_Mainsubject\08_methot\obj\Debug\08_methot.pdb

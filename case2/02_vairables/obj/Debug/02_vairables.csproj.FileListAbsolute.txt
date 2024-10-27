@@ -1,0 +1,7 @@
+C:\Users\tugru\source\repos\02_Mainsubject\02_vairables\bin\Debug\02_vairables.exe.config
+C:\Users\tugru\source\repos\02_Mainsubject\02_vairables\bin\Debug\02_vairables.exe
+C:\Users\tugru\source\repos\02_Mainsubject\02_vairables\bin\Debug\02_vairables.pdb
+C:\Users\tugru\source\repos\02_Mainsubject\02_vairables\obj\Debug\02_vairables.csproj.AssemblyReference.cache
+C:\Users\tugru\source\repos\02_Mainsubject\02_vairables\obj\Debug\02_vairables.csproj.CoreCompileInputs.cache
+C:\Users\tugru\source\repos\02_Mainsubject\02_vairables\obj\Debug\02_vairables.exe
+C:\Users\tugru\source\repos\02_Mainsubject\02_vairables\obj\Debug\02_vairables.pdb

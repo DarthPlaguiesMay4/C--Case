@@ -1,0 +1,7 @@
+C:\Users\tugru\source\repos\02_Mainsubject\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.exe.config
+C:\Users\tugru\source\repos\02_Mainsubject\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.exe
+C:\Users\tugru\source\repos\02_Mainsubject\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.pdb
+C:\Users\tugru\source\repos\02_Mainsubject\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.csproj.AssemblyReference.cache
+C:\Users\tugru\source\repos\02_Mainsubject\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.csproj.CoreCompileInputs.cache
+C:\Users\tugru\source\repos\02_Mainsubject\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.exe
+C:\Users\tugru\source\repos\02_Mainsubject\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.pdb
